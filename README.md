@@ -1,12 +1,10 @@
-**substraction Of Two Numbers**
+# Substraction Of Two Numbers:
+Substraction two numbers using C Program.
 
-**objective:**
+## Working:
+- In this program,the user is asked to enter two integers.These two integer are stored in variables a and b respectively.
+-  Then,these two numbers are sub using - operator,and the result is stored in the c variable.
 
-substraction two numbers using C Program
-### **Working**:
-- In this program,the user is asked to enter two integers.These two integer are stored in variables a and b respectively
--  Then,these two numbers are sub using - operator,and the result is stored in the c variable
-
-**Result:**
+## Result:
 
 - Finally,the printf function is used to display the substraction of numbers. 
